@@ -11,3 +11,7 @@ https://github.com/facebookresearch/segment-anything
 
 LabelMe
 https://github.com/labelmeai/labelme
+
+ChatGPT
+OpenAI. "ChatGPT: Conversational AI Model." 2022. Available at https://openai.com/chatgpt.
+OpenAI. (2023). ChatGPT (Version 4) [Software]. Available from https://openai.com/chatgpt
