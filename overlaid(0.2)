@@ -1,0 +1,7 @@
+Steps to Create the dataset with alpha=0.2
+
+Run the script under code files for overlaying.py
+
+Change alpha=0.2 from 0.5 and edit the directories as needed
+
+Run the code from the terminal as python overlaying.py
